@@ -100,19 +100,19 @@ form button{
 }
 @media screen and (max-width:1080px) {
     form {
-        width: cal(100% - 30px);
+        width: calc(100% - 40%);
     }
     form input{
         width: calc(100% - 30px);
     }
     form button{
-        width: calc(100% - 400px);
+        width: calc(100% - 1050px);
     }
     
 }
 @media screen and (max-width:560px) {
     form{
-        width: cal(100% - 30px);
+        width: calc(100% - 78px);
     }
     .search ul{
         display:block;
